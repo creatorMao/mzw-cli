@@ -1,7 +1,7 @@
 {
   "type": "module",
-  "name": "mzwcode-cli",
-  "version": "1.0.0",
+  "name": "create-mzw-cli",
+  "version": "1.0.11",
   "description": "",
   "bin": {
     "init": "./bin/init.js"
