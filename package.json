@@ -1,6 +1,6 @@
 {
   "type": "module",
-  "name": "vue3-template-cli",
+  "name": "mzwcode-cli",
   "version": "1.0.0",
   "description": "",
   "bin": {
