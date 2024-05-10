@@ -12,6 +12,11 @@ program
 program.parse(process.argv)
 
 //拿到第一个参数
+if (program.args.length === 0) {
+    console.log(chalk.red(`  项目名称不能为空！而且要用英文！`))
+    process.exit()
+}
+
 let projectName = program.args[0]
 
 console.log(chalk.white(`  开始生成${projectName}项目! `))

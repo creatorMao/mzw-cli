@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "create-mzw-cli",
-  "version": "1.0.11",
+  "version": "1.0.16",
   "description": "",
   "bin": {
     "init": "./bin/init.js"
